@@ -12,7 +12,7 @@ title                    : "Fuwad's Blogs"
 title_separator          : "-"
 name                     : &name "Fuwad Hasan"
 description              : &description "personal description"
-url                      : https://fuwad13.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fuwad13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Fuwad13/Fuwad13.github.io"
 
